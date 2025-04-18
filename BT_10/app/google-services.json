@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093028785181",
+    "project_id": "videoshort-b8f06",
+    "storage_bucket": "videoshort-b8f06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093028785181:android:679e227e09ef44fbd56af4",
+        "android_client_info": {
+          "package_name": "ute.hung.bt_10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClqvDMolmVGVbPRQfCtFLK1rNAPafLB-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
